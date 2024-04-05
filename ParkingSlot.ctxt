@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ParkingSlot
+comment0.text=\n\ Represents\ a\ parking\ slot\ in\ the\ car\ park.\n
+comment1.params=identifier
+comment1.target=ParkingSlot(java.lang.String)
+comment1.text=\n\ Initializes\ a\ new\ parking\ slot\ with\ the\ given\ identifier.\n\n\ @param\ identifier\ The\ identifier\ for\ the\ parking\ slot.\n
+comment2.params=
+comment2.target=java.lang.String\ getIdentifier()
+comment2.text=\n\ Gets\ the\ identifier\ of\ the\ parking\ slot.\n\n\ @return\ The\ identifier\ of\ the\ parking\ slot.\n
+comment3.params=
+comment3.target=boolean\ isCarParked()
+comment3.text=\n\ Checks\ if\ a\ car\ is\ parked\ in\ the\ parking\ slot.\n\n\ @return\ True\ if\ a\ car\ is\ parked,\ false\ otherwise.\n
+comment4.params=
+comment4.target=Car\ getParkedCar()
+comment4.text=\n\ Gets\ the\ car\ parked\ in\ the\ slot.\n\n\ @return\ The\ parked\ car,\ or\ null\ if\ the\ slot\ is\ empty.\n
+comment5.params=car
+comment5.target=void\ parkCarInfo(Car)
+comment5.text=\n\ Parks\ a\ car\ in\ the\ parking\ slot.\n\n\ @param\ car\ The\ car\ to\ park.\n
+comment6.params=
+comment6.target=void\ removeCar()
+comment6.text=\n\ Removes\ the\ parked\ car\ from\ the\ slot.\n
+numComments=7

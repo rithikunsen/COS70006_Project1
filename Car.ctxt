@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Represents\ a\ car\ with\ a\ registration\ number,\ make,\ model,\ and\ year.\n
+comment1.params=registrationNumber\ make\ model\ year
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Initializes\ a\ new\ car\ with\ the\ given\ registration\ number,\ make,\ model,\ and\n\ year.\n\n\ @param\ registrationNumber\ The\ registration\ number\ of\ the\ car.\n\ @param\ make\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ make\ of\ the\ car.\n\ @param\ model\ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ model\ of\ the\ car.\n\ @param\ year\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ manufacturing\ year\ of\ the\ car.\n
+comment2.params=
+comment2.target=java.lang.String\ getRegistrationNumber()
+comment2.text=\n\ Gets\ the\ registration\ number\ of\ the\ car.\n\n\ @return\ The\ registration\ number\ of\ the\ car.\n
+comment3.params=
+comment3.target=java.lang.String\ getMake()
+comment3.text=\n\ Gets\ the\ make\ of\ the\ car.\n\n\ @return\ The\ make\ of\ the\ car.\n
+comment4.params=
+comment4.target=java.lang.String\ getModel()
+comment4.text=\n\ Gets\ the\ model\ of\ the\ car.\n\n\ @return\ The\ model\ of\ the\ car.\n
+comment5.params=
+comment5.target=int\ getYear()
+comment5.text=\n\ Gets\ the\ manufacturing\ year\ of\ the\ car.\n\n\ @return\ The\ manufacturing\ year\ of\ the\ car.\n
+comment6.params=
+comment6.target=java.util.Date\ getParkingTime()
+comment6.text=\n\ Gets\ the\ parking\ time\ of\ the\ car.\n\ \n\ @return\ The\ parking\ time\ of\ the\ car.\n
+comment7.params=parkingTime
+comment7.target=void\ setParkingTime(java.util.Date)
+comment7.text=\n\ Sets\ the\ parking\ time\ of\ the\ car.\n\ \n\ @param\ parkingTime\ The\ parking\ time\ of\ the\ car.\n
+numComments=8

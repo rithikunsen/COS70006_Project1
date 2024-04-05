@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\n\ Represents\ the\ application\ class\ with\ a\ main\ method\ for\ user\ interaction.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=slotID
+comment2.target=boolean\ isValidSlotID(java.lang.String)
+comment3.params=regNumber
+comment3.target=boolean\ isValidRegNumber(java.lang.String)
+numComments=4
